@@ -1,4 +1,4 @@
-# pr_anush
+# E-Learning API with ZOOM
 
 run the following cord in your terminal to install the node modules (If necessary)
 > npm install
